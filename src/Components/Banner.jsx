@@ -56,7 +56,7 @@ const Banner = () => {
 </a>
 
 <a 
-  href="linkedin.com/in/vikas-saini-16a39b282" 
+  href="" 
   target="_blank" 
   rel="noopener noreferrer"
   className="hover:bg-orange-600 border cursor-pointer w-12 h-12 bg-gray-800 rounded-full flex justify-center items-center"
