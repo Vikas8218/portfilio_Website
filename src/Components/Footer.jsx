@@ -7,7 +7,7 @@ const Footer = () => {
             About
           </a>
           <a className="hover:underline" href="#">
-            Privacy Policy
+             Policy
           </a>
           <a className="hover:underline" href="#">
             Contact
